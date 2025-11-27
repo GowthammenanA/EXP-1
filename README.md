@@ -60,7 +60,18 @@ a.   KVL:
  
 
 
+
+![WhatsApp Image 2025-11-27 at 15 33 46_4071d98a](https://github.com/user-attachments/assets/eeb1e0a7-bae4-4c97-9a3b-675ccb2c8e97)
+
+
 b.  KCL:
+
+
+![WhatsApp Image 2025-11-27 at 15 33 47_fca699c4](https://github.com/user-attachments/assets/c9058e52-7ca3-4d9e-80a1-36d532457840)
+
+
+
+![WhatsApp Image 2025-11-27 at 15 33 47_d5b18b9d](https://github.com/user-attachments/assets/7863c0b9-ba74-4476-b77c-be883233c53a)
 
 
 
@@ -70,8 +81,18 @@ Tabulation:
 a.   KVL:
  
 
+![WhatsApp Image 2025-11-27 at 15 33 46_a338205b](https://github.com/user-attachments/assets/d3fabeb3-f243-4a8e-b0e5-ae8a412f8079)
+
 
 b.  KCL:
+
+
+
+
+
+
+![WhatsApp Image 2025-11-27 at 15 33 47_447684ca](https://github.com/user-attachments/assets/68abefe7-8d52-448d-a27d-f3be8cdba258)
+
 
 
 
